@@ -16,7 +16,7 @@
 
 ### Modeling 구상
 
-이러한 아이디어들을 바탕으로 3D모델링 프로그램을 활용하여 모델링을 진행해 보았다. [모델 링크](https://cad.onshape.com/documents/a7ac3f0235dd5f6b6191ebe7/w/da14889e2f97f6c179aa0c51/e/18bfe2a3db88af4022d3ebe9)
+이러한 아이디어들을 바탕으로 3D모델링 프로그램을 활용하여 모델링을 진행해 보았다. [모델 링크](https://cad.onshape.com/documents/a7ac3f0235dd5f6b6191ebe7/w/da14889e2f97f6c179aa0c51/e/18bfe2a3db88af4022d3ebe9)<p>
 사진 사진 동영상 첨부
 
 ###
