@@ -1,4 +1,4 @@
-## 1. Summary/개요
+## 1. Summary / 개요
 
 ### Markdown
 
