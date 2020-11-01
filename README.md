@@ -1,4 +1,4 @@
-# Adventure Design Project
+# 날씨에 따라 알맞은 옷을 추천 해 주는 
 
 ## 1. Summary / 개요
 
